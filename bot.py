@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import telebot
 import keys as k
 import db as db
